@@ -1,0 +1,14 @@
+.Footer {
+    display: flex;
+    flex: 1 1;
+    background: #161619;
+    border-radius: 0px 0px 10px 10px;
+    justify-content: space-evenly;
+}
+
+.Footer img {
+    flex: 0 0;
+    margin: 10px;
+    width: 40px;
+    height: 40px;
+}

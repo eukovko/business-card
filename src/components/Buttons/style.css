@@ -1,0 +1,45 @@
+.Buttons {
+    display: flex;
+    flex: 1 1;
+    align-content: space-between;
+}
+
+button {
+    margin: 10px;
+    justify-content: center;
+}
+
+button img {
+    margin: 0;
+    width: 20px;
+    height: 20px;
+}
+.Mail {
+    flex: 1 1;
+    background: #FFFFFF;
+    border: 1px solid #D1D5DB;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+    width: 100px;
+    height: 50px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    color: #374151;
+}
+
+.LinkedIn {
+    flex: 1 1;
+    border: 1px solid #5093E2;
+    border-radius: 6px;
+    width: 100px;
+    height: 50px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+    background: #5093E2;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+}

@@ -1,0 +1,6 @@
+.Card {
+    display: flex;
+    flex-direction: column;
+    height: 50vw;
+    width: 30vw;
+}

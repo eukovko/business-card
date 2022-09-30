@@ -1,0 +1,10 @@
+.Photo {
+    margin-top: 60px;
+    flex: 2 1;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px 10px 0px 0px
+}

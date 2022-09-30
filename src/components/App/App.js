@@ -1,9 +1,10 @@
-import './App.css';
+import './style.css';
+import {Card} from "../Card/Card";
 
 function App() {
   return (
     <div className="App">
-
+        <Card />
     </div>
   );
 }
